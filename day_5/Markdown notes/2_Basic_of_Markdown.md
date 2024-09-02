@@ -1,3 +1,19 @@
+# Table of Contents
+
+[1- Headings](#1-headings-in-markdown)\
+[2- Block of words](#2-block-of-words)\
+[3-Line Break](#3-line-break)\
+[4-Combine Things Together](#4-combine-things-togethor)\
+[5-Face of text](#5-face-of-text)\
+[6-Bullet list](#6-bullet-list)\
+[7-Number list](#7-number-list)\
+[8-Line break & Page break](#8-line-break--page-break)\
+[9-Link and Hyperlink](#9-link-and-hyperlink)\
+[10-Image and figure with links](#10-image-and-figure-with-links)\
+[11-Adding table](#11-adding-table-in-markdown)\
+[12-Alignment in tables](#12-alignment-in-tables)\
+[13-Code / Block of Code](#13-code--block-of-code)
+
 # 1. Headings in Markdown
 There is 6 types of headings in markdown.
 
@@ -314,19 +330,3 @@ print(z)
 
 - We can also add code by using double time press tab key.
   
-
-# 14. Table of Contents
-
-[1- Headings](#1-headings-in-markdown)\
-[2- Block of words](#2-block-of-words)\
-[3-Line Break](#3-line-break)\
-[4-Combine Things Together](#4-combine-things-togethor)\
-[5-Face of text](#5-face-of-text)\
-[6-Bullet list](#6-bullet-list)\
-[7-Number list](#7-number-list)\
-[8-Line break & Page break](#8-line-break--page-break)\
-[9-Link and Hyperlink](#9-link-and-hyperlink)\
-[10-Image and figure with links](#10-image-and-figure-with-links)\
-[11-Adding table](#11-adding-table-in-markdown)\
-[12-Alignment in tables](#12-alignment-in-tables)\
-[13-Code / Block of Code](#13-code--block-of-code)
