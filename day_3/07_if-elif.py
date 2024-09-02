@@ -1,5 +1,11 @@
+                    # if and elif and else statement
+# 1.if-else Statment:
 # if-else statement is used to execute a block of code if a condition is true
-# elif is used to execute a block of code if the previous conditions are false
+
+# 2.elif:
+# elif is used to execute a block of code if the previous conditions are false.
+
+# 3.else
 # else is used to execute a block of code if all the conditions are false
 
 # if statement

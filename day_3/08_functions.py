@@ -1,8 +1,15 @@
-# # define a function means that we can define our own functions
-# # function is a block of code which only runs when it is called
-# # we can pass data into the function as parameters
+                            # Functions:
 
-# # def keyword is used to define a function
+# How to define a function in python?
+
+# define a function means that we can define our own functions.
+# function is a block of code which only runs when it is called.
+# we can pass data into the function as parameters.
+
+# Keyword for defining a function?
+#  " def "  keyword is used to define a function
+
+# Fro example:
 # def student_age(age):
 #     if age != 10:
 #         print(" He is a edult")
@@ -13,7 +20,7 @@
 
 # student_age(input("Enter your age : "))
 
-# # we can call the function multiple times
+                # # we can call the function multiple times
 
 # student_age(10)
 
@@ -23,7 +30,7 @@
 
 # student_age(13)
 
-# # we can pass multiple parameters to the function
+            # # we can pass multiple parameters to the function
 
 # student_age(10,11,12,13)
 

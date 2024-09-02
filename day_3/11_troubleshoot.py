@@ -33,7 +33,8 @@ print(a+b)
 a = 10
 b = 20  
 
-print(a+b  # here is syntax error means missing closing bracket, missing in code structure
+# print(a+b 
+ # here is syntax error means missing closing bracket, missing in code structure
 
 # logic error means that missing equal sign in code
 
@@ -45,6 +46,7 @@ b = 20
 print(a/b) 
 
 # runtime error
+
 # runtime error means that something is missing 
 # example
 

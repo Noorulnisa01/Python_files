@@ -3,7 +3,7 @@
 # 1. while loop
 # 2. for loop
 
-# while loop
+# 1.while loop
 # while loop is used to execute a block of code as long as a certain condition is true
 # while loop is used to execute a block of code until a certain condition is true
 
@@ -14,7 +14,7 @@
 #     x = x+1
 
 
-# for loop
+# 2. for loop
 
 # for loop is used to execute a block of code for a certain number of times
 # for loop is used to execute a block of code for a certain range of numbers

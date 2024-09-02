@@ -1,5 +1,4 @@
-print(2+3)
-
+                        # Variables:
 
 # Variable : objects that can store specific values and data
 
@@ -14,7 +13,8 @@ print(y)
 print(type(x)) # class 'int' means class of x value is integer
 print(type(y)) # class 'str' means class of y value is string
 
-#  Rules for declaring the variables
+
+                            #  Rules for declaring the variables
 
 # 1. Variable name can not start with numbers
 # 2. Variable name can not contain any special characters

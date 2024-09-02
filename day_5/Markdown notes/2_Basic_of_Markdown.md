@@ -21,13 +21,15 @@ There is 6 types of headings in markdown.
 
 This is the normal text.
 
-> This is a blockquote (special text).
->
-> when we type > we get a blockquote
->
-> we type double time enter to get a new line or text on next line.
->
-> you can see the special text that is in the blockquote in the preview window.
+- For example: Hello
+
+
+This is a blockquote (special text).
+> Hello
+
+- when we type " > " we get a blockquote.
+- we type double time enter to get a new line or text on next line.
+- you can see the special text that is in the blockquote in the preview window.
 
 # 3. Line break
 
@@ -35,14 +37,26 @@ This is the normal text.
 
 - Line break is done by using double times enter.
 - Line bread is created by using the symbol " \ ".
-  
+
+> This is first line.
+> This is second line.
+- Type " \ " and then enter to create a line break.
+  > This is first line.\
+  > This is second line.
+
 # 4. Combine things togethor
 
 ## 4.1 Combine two things
 
-Combine two things like block of words and heading
-
+- Combine two things like " block of words " and " heading ".
+- It means that you can combine two things together.
+  
+***For example:***
+- This is simple Heading 2.
+## Heading 2
+- This is Heading 2 with block of words.
 > ## Heading 2
+- Block of words means this " Heading 2 " is showing in a highlighted bar by using the symbol " > ".
 
 ## 4.2. Combine three things
 
@@ -107,12 +121,13 @@ e.g. 2~3 = 1/2
 
 # 7. Number list
 
+Number list is created by Writing " 1. " at first of list item.
 1. List item 1
 2. List item 2
 3. List item 3
     1. List item a
     2. List item b
-    1. List item 1
+    3. List item 1
 4. List item 4
 
 # 8. Line break / Page break
@@ -133,14 +148,14 @@ ___
 
 # 9. Link and Hyperlink
 
-> a) Direct Links and Hyperlinks
-
+> a) Direct Links and Hyperlinks :
+- ***Direct link*** means showing the complete address of the website.
 - we can paste direct link or hyperlink by using **" <> "** symbol.
 - For example: <http://www.google.com>
   
         <http://www.google.com>
 
-> b) Text/channel name as a link
+> b) Text/channel name as a link :
 
 - Write the text/words in Square brackets [] and then paste hyperlink by using **" () "** symbol.
 - For example: [Google link](http://www.google.com)
@@ -150,7 +165,7 @@ ___
 > c) Key of link
 
 1. Write the text/words in **Square brackets** [ ] , type **semicolon** **" : "** then paste hyperlink .
-   - For example: [Youtube]:<http://www.youtube.com>
+   - For example: 
   
             [Youtube]: http://www.youtube.com
 2. Write the word in square bracket [ ] and then type the key of the link.
@@ -163,10 +178,12 @@ ___
             [Youtube]: http://www.youtube.com
             To open the Youtube link click [here][Youtube]
 
+### ***Result:***
+
    This type of link is called key of link.
 
-   [Youtube]: http://www.youtube.com
-    To open the Youtube link click [here][Youtube]
+[Youtube]: http://www.youtube.com
+To open the Youtube link click [here][Youtube]
 
 # 10. Image and figure with links
 
@@ -175,18 +192,27 @@ Same like link of channels and hyperlinks.
 To insert image in markdown 
  
  > ## 10.1 Method # 1: Make the text as hyperlink of image.
-  - Dwonload the image in your computer
-  - Type the image name in [ ].
-  - paste the image link in ( ).
-For example: 
+
+  1. Dwonload the image in your computer.
+  2. Type the image name in [ ].
+  3. paste the image path in ( ).
+   
+***For example:*** 
 
 [Goggle](https://th.bing.com/th/id/R.4ea7270debc77a8076d7311678d0bc03?rik=%2bCxfbiSpkhxfpg&pid=ImgRaw&r=0)
+- This will make the image name as a hyperlink of image.
+- You click on the image name and open the image.
+
 
 > ## 10.2 Method # 2: Insert online image in markdown
 
-Same like methode # 1 with add symbol of " ! " before the image name.
+1. Add symbol of " ! " before brackets
+   
+    e.g. ****![image name]****.
+2. Type the image name in [ ].
+3. paste the image path in ( ).
 
-
+### ***Result:***
 ![Goggle](https://th.bing.com/th/id/R.4ea7270debc77a8076d7311678d0bc03?rik=%2bCxfbiSpkhxfpg&pid=ImgRaw&r=0)
 
 # 11. Adding Table in Markdown
@@ -304,4 +330,3 @@ print(z)
 [11-Adding table](#11-adding-table-in-markdown)\
 [12-Alignment in tables](#12-alignment-in-tables)\
 [13-Code / Block of Code](#13-code--block-of-code)
-
