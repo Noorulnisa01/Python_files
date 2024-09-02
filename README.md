@@ -1,4 +1,4 @@
-                                    # **Markdwon Cheatsheet***
+# **Markdwon Cheatsheet***
 # Table of Contents
 
 [1- Headings](#1-headings-in-markdown)\
