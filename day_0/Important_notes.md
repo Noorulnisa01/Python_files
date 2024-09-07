@@ -1,7 +1,7 @@
 
 # ***Important Notes of Python***
 Written by: NOOR UL NISA\
-Email ID: 766noornisa@gmail.com 
+Email ID : 766noornisa@gmail.com 
 
 # ***Note 1: Streamlit dashboard benefits***
 
