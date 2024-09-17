@@ -8,7 +8,7 @@ y = "Noor" # Varibales that contain strings is called string variables
 print(x)
 print(y)
                             # Types/class of Variables
-# "Type" word is used to show the data type/class of a variable
+# "Type" word is used to show the type/class of data that stored in a variable
 
 print(type(x)) # class 'int' means class of x value is integer
 print(type(y)) # class 'str' means class of y value is string
