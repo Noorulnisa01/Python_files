@@ -318,19 +318,14 @@ We can use **" : " ** to align the text in table.
 
 For example:
 
-      ```
+ ```python
       x = 10
       y = 20
       z = x + y
       print(z)
       ```
-Result:
+// Result: z = 30
 
-```
-x = 10
-y = 20
-z = x + y
-print(z)
 ```
 
 - We can also add code by using double time press tab key.
